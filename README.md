@@ -1,7 +1,4 @@
 # MiniProject-4 ComboFinder
-# Combo Finder: Optimal Product Combinations
-
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 
 A Python-based project to find the best product combinations (combos) from a given dataset under constraints (e.g., budget, weight, or value optimization).
 
